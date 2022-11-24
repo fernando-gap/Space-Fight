@@ -10,3 +10,4 @@
 - [ ] Tem boss, tem que ter BOSS
 - [ ] Cenario
 - [ ] Criar fases diferentes
+- [ ] vida do personagem
